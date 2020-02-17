@@ -9,4 +9,4 @@ This repository contains:
 - [Satellite image clustering, Sentinel](PrjB4_Sentinel_Clustering.ipynb)
 - [Image patch classification, EuroSat](PrjC1_EuroSat_Classification.ipynb)
 - [Texture features example, GLCM](plot_glcm.ipynb)
-- [Homework Assignment #3](HW3.ipynb)
+- [Homework Assignment #3](hw3.ipynb)
